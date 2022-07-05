@@ -1,8 +1,5 @@
 ## Opa meu bom! Eu sou o Vinicius Victor 
 
-- 🔭 Atualmente eu trabalho como Front-end
-- 🌱 Estudando Desenvolvimento de Sistemas
-
 <div>
   <a href="https://github.com/viniyyyyy">
     <img height="180" src="https://github-readme-stats.vercel.app/api?username=viniyyyyy&theme=codeSTACKr&show_icons=true"/>
