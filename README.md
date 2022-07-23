@@ -4,7 +4,7 @@
 <h1 align="center"> Olá, meu nome é Vinicius Victor <h1/>
 <div/>
 
-<div>
+<div align="center" valign="top">
   <a href="https://github.com/viniyyyyy">
     <img align="center" height="150" src="https://github-readme-stats.vercel.app/api?username=viniyyyyy&theme=graywhite&show_icons=true"/>
     <img align="center" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniyyyyy&theme=graywhite&layout=compact"/>
