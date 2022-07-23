@@ -1,8 +1,7 @@
 ## 
 
-<h1 align="center"> Olá, meu nome é Vinicius Victor <h1/>
-
-<div align="center" valign="top>
+<div align="center" valign="top">
+  <h1 align="center">.../I'm Vinicius Victor/...<h1/>
   <img height="450" width="1000" src="https://upload.wikimedia.org/wikipedia/commons/5/5a/Animated_Wallpaper_Windows_10_-_Wallpaper_Engine.gif" />
 <div/>
 
