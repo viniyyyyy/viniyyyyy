@@ -5,7 +5,7 @@
   <img height="350" width="750" src="https://upload.wikimedia.org/wikipedia/commons/5/5a/Animated_Wallpaper_Windows_10_-_Wallpaper_Engine.gif" />
 <div/>
 
-<div align="center" valign="top">
+<div>
   <a href="https://github.com/viniyyyyy">
     <img align="center" height="150" src="https://github-readme-stats.vercel.app/api?username=viniyyyyy&theme=graywhite&show_icons=true"/>
     <img align="center" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniyyyyy&theme=graywhite&layout=compact"/>
