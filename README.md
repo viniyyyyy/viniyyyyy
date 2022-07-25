@@ -5,10 +5,14 @@
   <img align="center" height="350" width="750" src="https://upload.wikimedia.org/wikipedia/commons/5/5a/Animated_Wallpaper_Windows_10_-_Wallpaper_Engine.gif" />
 <div/>
 
+
+##
+
+
 <div>
   <a href="https://github.com/viniyyyyy">
     <img valign="top" align="center" height="150" src="https://github-readme-stats.vercel.app/api?username=viniyyyyy&theme=graywhite&show_icons=true"/>
-    <img valign="top" align=""  height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniyyyyy&theme=graywhite&layout=compact"/>
+    <img valign="top" align="center"  height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniyyyyy&theme=graywhite&layout=compact"/>
 </div>
 
 <div>
